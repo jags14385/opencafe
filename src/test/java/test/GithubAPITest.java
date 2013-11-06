@@ -23,7 +23,7 @@ public class GithubAPITest extends GithubTestFixture {
     public void shouldHaveTheExpectedNumberOfRepositories() throws IOException {
 
         List<Repository> repos = gitRepoClient.getRepositoryForUser("jags14385");
-        assertThat(repos.size(), is(6));
+        assertThat(repos.size(), is(7));
 
     }
 

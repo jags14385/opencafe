@@ -1,11 +1,10 @@
 opencafe
 ========
 
-opencafe has been inspired from the OpenStack Community "OpenCafe" repo. This describes a design patern on how we can 
+opencafe has been inspired from the OpenStack Community "OpenCafe" repo ( https://github.com/stackforge/opencafe ). This describes a design patern on how we can 
 test Webservices & API in a domain driven manner efficiently.
 
 I have implemented the design pattern in JAVA.
-
 
 Terminology
 
@@ -30,4 +29,3 @@ A model can be many things, but generally is a class that describes a specific d
 Provider
 
 This is meant to be a convenience facade that performs configuration of clients and behaviors to provide configuration-based default combinations of different clients and behaviors
-

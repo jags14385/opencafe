@@ -27,6 +27,15 @@ public class GithubAPITest extends GithubTestFixture {
 
     }
 
+    @Test
+    public void shouldHaveTheExpectedRepositories() throws IOException {
+
+        List<Repository> repos = gitRepoClient.getRepositoryForUser("jags14385");
+        for (Repository repo : repos) {
+
+        }
+    }
+
     @After
     public void tearDown() {
 

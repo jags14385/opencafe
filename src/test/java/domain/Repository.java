@@ -69,6 +69,7 @@ public class Repository {
     private String url;
     private Number watchers;
     private Number watchers_count;
+    private Number stargazers_count;
 
     public String getArchive_url() {
         return this.archive_url;
@@ -596,5 +597,13 @@ public class Repository {
 
     public void setWatchers_count(Number watchers_count) {
         this.watchers_count = watchers_count;
+    }
+
+    public Number getStargazers_count() {
+        return stargazers_count;
+    }
+
+    public void setStargazers_count(Number stargazers_count) {
+        this.stargazers_count = stargazers_count;
     }
 }

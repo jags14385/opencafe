@@ -1,6 +1,7 @@
 package test;
 
 import domain.Customer;
+import org.junit.Test;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
@@ -10,7 +11,8 @@ import java.io.StringReader;
 
 public class XMLTest {
 
-    public static void main(String[] args) throws Exception {
+    @Test
+    public void xmlUnMarshallTest() throws Exception {
 
         System.out.println("--XML--");
 

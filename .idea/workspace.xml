@@ -20,6 +20,7 @@
     <file path="/XMLTest.java" changelist="2ebdca92-f757-425e-a5e5-94964c5a3888" time="1385212999118" ignored="false" />
     <file path="/Hello.java" changelist="2ebdca92-f757-425e-a5e5-94964c5a3888" time="1384956105784" ignored="false" />
     <file path="/.gitignore" changelist="2ebdca92-f757-425e-a5e5-94964c5a3888" time="1384998734725" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="2ebdca92-f757-425e-a5e5-94964c5a3888" time="1385214837995" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,45 +82,43 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="XMLTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/XMLTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/test/XMLTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="9" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GithubAPITest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/GithubAPITest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="59" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GithubAPITest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/test/GithubAPITest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="44" selection-start="223" selection-end="223" vertical-scroll-proportion="0.2572899">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="7" selection-start="15" selection-end="15" vertical-scroll-proportion="0.025773196">
+            <state line="1" column="7" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Repository.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/domain/Repository.java">
+        <entry file="file://$PROJECT_DIR$/src/test/domain/Repository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="5" selection-start="2176" selection-end="2177" vertical-scroll-proportion="229.03847">
+            <state line="72" column="5" selection-start="2176" selection-end="2177" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GitRepoClient.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/client/GitRepoClient.java">
+        <entry file="file://$PROJECT_DIR$/src/test/client/GitRepoClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="69" selection-start="506" selection-end="553" vertical-scroll-proportion="0.0">
               <folding />
@@ -151,8 +150,8 @@
         <option value="$PROJECT_DIR$/src/resources/hello.xml" />
         <option value="$PROJECT_DIR$/src/test/java/test/XMLTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/domain/Repository.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/GithubAPITest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/test/GithubAPITest.java" />
       </list>
     </option>
   </component>
@@ -254,6 +253,24 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openCafe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openCafe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -283,15 +300,15 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="fixture" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="test" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.GithubAPITest.shouldHaveTheExpectedRepositories">
+  <component name="RunManager" selected="JUnit.All in openCafe">
     <configuration default="false" name="GithubAPITest.shouldHaveTheExpectedNumberOfRepositories" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="openCafe" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -444,6 +461,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -469,19 +499,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -527,11 +544,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GithubAPITest.shouldHaveTheExpectedRepositories" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in openCafe" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.GithubAPITest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.GithubAPITest.shouldHaveTheExpectedNumberOfRepositories" />
-        <item index="3" class="java.lang.String" itemvalue="Application.XMLTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.All in openCafe" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GithubAPITest.shouldHaveTheExpectedRepositories" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.GithubAPITest.shouldHaveTheExpectedNumberOfRepositories" />
+        <item index="4" class="java.lang.String" itemvalue="Application.XMLTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -567,7 +584,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1676" height="1028" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -582,8 +599,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944787" sideWeight="0.67070484" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969324" sideWeight="0.67180616" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32819384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969324" sideWeight="0.6729075" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3270925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -663,7 +680,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/GithubAPITest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/test/GithubAPITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0">
           <folding />
@@ -677,21 +694,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/domain/Owner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/domain/Owner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="20" selection-start="242" selection-end="242" vertical-scroll-proportion="0.017006803">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/fixture/GithubTestFixture.java">
+    <entry file="file://$PROJECT_DIR$/src/test/fixture/GithubTestFixture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="57" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/provider/GitAPIProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/test/provider/GitAPIProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="45" selection-start="126" selection-end="126" vertical-scroll-proportion="0.18072289">
           <folding />
@@ -713,7 +730,7 @@
         <state line="154" column="31" selection-start="7570" selection-end="7570" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/domain/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/test/domain/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="15" selection-start="175" selection-end="175" vertical-scroll-proportion="0.11931818">
           <folding>
@@ -729,39 +746,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/XMLTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/test/XMLTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="9" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/client/GitRepoClient.java">
+    <entry file="file://$PROJECT_DIR$/src/test/client/GitRepoClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="69" selection-start="506" selection-end="553" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/domain/Repository.java">
+    <entry file="file://$PROJECT_DIR$/src/test/domain/Repository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="5" selection-start="2176" selection-end="2177" vertical-scroll-proportion="229.03847">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/GithubAPITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="59" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
+        <state line="72" column="5" selection-start="2176" selection-end="2177" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="7" selection-start="15" selection-end="15" vertical-scroll-proportion="0.025773196">
+        <state line="1" column="7" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test/GithubAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="223" selection-end="223" vertical-scroll-proportion="0.2572899">
           <folding />
         </state>
       </provider>
